@@ -13,9 +13,9 @@ import org.testng.annotations.Test;
 
 public class ForgetPwdPageTest {
 	public static String TEST_RUN_ID = "74";
-	public static String TESTRAIL_USERNAME = "varun.sunny@unilogcorp.com";
-	public static String TESTRAIL_PASSWORD = "Varun@3699";
-	public static String RAILS_ENGINE_URL = "https://unilogqa.testrail.io/";
+	public static String TESTRAIL_USERNAME = "abc@xyz.com";
+	public static String TESTRAIL_PASSWORD = "Varun@3456699";
+	public static String RAILS_ENGINE_URL = "https://absx.testrail.io/";
 	public static final int TEST_CASE_PASSED_STATUS = 1;
 	public static final int TEST_CASE_FAILED_STATUS = 5;
 	WebDriver driver;
