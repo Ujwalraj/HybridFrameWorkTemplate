@@ -1,0 +1,4 @@
+2018-06-20 15:19:37 INFO  TestBase:52 - Log 4j properties configured. 
+2018-06-20 15:19:37 INFO  TestBase:55 - Browser used for execution is :chrome
+2018-06-20 15:19:45 INFO  TestBase:60 - Navigating to the URL :https://www.google.com
+2018-06-20 15:19:50 INFO  TestBase:68 - Closing the browser. 
